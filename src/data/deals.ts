@@ -1073,8 +1073,44 @@ export const stores = [
 ];
 
 export const blogPosts = [
-  { id: "1", title: "10 Best Fashion Coupon Hacks to Save Big in 2026", excerpt: "Discover proven strategies to stack fashion coupons and save up to 80% on your wardrobe.", date: "Apr 10, 2026", category: "Tips", readTime: "5 min" },
-  { id: "2", title: "How to Style on a Budget with Myntra & AJIO Deals", excerpt: "Learn how to look stunning without breaking the bank using the latest fashion deals.", date: "Apr 8, 2026", category: "Guide", readTime: "7 min" },
-  { id: "3", title: "Top Ethnic Wear Deals This Festive Season", excerpt: "We've curated the best ethnic wear coupons from Biba, Libas, and more for the festive season.", date: "Apr 5, 2026", category: "Deals", readTime: "4 min" },
-  { id: "4", title: "Men's Fashion: Hidden Discount Tricks You Must Know", excerpt: "Unlock secret men's fashion deals from Levi's, Rare Rabbit, and Adidas that most people miss.", date: "Apr 1, 2026", category: "Fashion", readTime: "6 min" },
+  { 
+    id: "1", 
+    title: "10 Best Fashion Coupon Hacks to Save Big in 2026", 
+    excerpt: "Discover proven strategies to stack fashion coupons and save up to 80% on your wardrobe.", 
+    date: "Apr 10, 2026", 
+    category: "Tips", 
+    readTime: "5 min",
+    content: "When it comes to fashion shopping, timing and coupon stacking are everything. Start by signing up for newsletters from your favorite brands to receive welcome discounts. Next, wait for major sale events like End of Reason Sale (EORS) or Big Billion Days where base prices are already slashed. The real hack is to apply bank offers and wallet cashbacks on top of these discounted prices. Additionally, loyalty programs like Myntra Insider or AJIO Gold can provide you with early access and exclusive discount codes that aren't available to regular users.",
+    externalUrl: "https://www.vogue.com/fashion"
+  },
+  { 
+    id: "2", 
+    title: "How to Style on a Budget with Myntra & AJIO Deals", 
+    excerpt: "Learn how to look stunning without breaking the bank using the latest fashion deals.", 
+    date: "Apr 8, 2026", 
+    category: "Guide", 
+    readTime: "7 min",
+    content: "Building a versatile wardrobe doesn't require a massive budget. Focus on investing in high-quality basics like a classic white tee, well-fitted denim, and a versatile blazer. Platforms like Myntra and AJIO frequently offer 'Buy 1 Get 1 Free' or flat 50-70% off on these essentials. Use filters effectively to sort by the highest discount percentage. Don't shy away from mixing high-street fashion with affordable local brands. Accessorizing smartly can elevate a budget outfit, making it look premium.",
+    externalUrl: "https://www.gq.com/style"
+  },
+  { 
+    id: "3", 
+    title: "Top Ethnic Wear Deals This Festive Season", 
+    excerpt: "We've curated the best ethnic wear coupons from Biba, Libas, and more for the festive season.", 
+    date: "Apr 5, 2026", 
+    category: "Deals", 
+    readTime: "4 min",
+    content: "Festive seasons are synonymous with vibrant ethnic wear. Brands like Biba, Libas, and W offer their most attractive discounts during Diwali and Navratri. Look out for flat discounts on combo sets (kurta, palazzo, and dupatta) which offer better value than buying separates. Keep an eye out for clearance sales where last season's festive wear is sold at a fraction of the cost. Always check for combo codes that give extra 10-15% off on purchasing two or more items.",
+    externalUrl: "https://www.businessoffashion.com/"
+  },
+  { 
+    id: "4", 
+    title: "Men's Fashion: Hidden Discount Tricks You Must Know", 
+    excerpt: "Unlock secret men's fashion deals from Levi's, Rare Rabbit, and Adidas that most people miss.", 
+    date: "Apr 1, 2026", 
+    category: "Fashion", 
+    readTime: "6 min",
+    content: "Men's fashion deals are often hidden in plain sight. For premium brands like Rare Rabbit or Levi's, shopping during off-season sales (buying winter wear in summer and vice versa) yields the highest discounts. Always check for 'App Only' exclusive deals, as many brands incentivize mobile shopping with extra 5-10% off codes. For sportswear like Adidas or Nike, the factory outlet sections on their official websites often harbor the best unadvertised discounts.",
+    externalUrl: "https://www.hypebeast.com/style"
+  },
 ];
